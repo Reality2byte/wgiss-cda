@@ -9,7 +9,7 @@ parts:
     - file: intro
     - file: scope
     - file: opensearch_4_before_you_begin
-#    - file: opensearch_5_outline
+    - file: opensearch_5_outline
     - file: opensearch_6_idn
 #    - file: opensearch_8_fedeo
     - file: glossary
