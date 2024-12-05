@@ -8,6 +8,7 @@ parts:
     chapters:
     - file: intro
     - file: scope
+    - file: references
     - file: opensearch_4_before_you_begin
     - file: opensearch_5_outline
     - file: opensearch_6_idn
