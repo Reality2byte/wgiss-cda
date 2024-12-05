@@ -13,6 +13,7 @@ execute:
   
 launch_buttons:
   colab_url: "https://colab.research.google.com"
+  binderhub_url: "https://mybinder.org"
 
 # Define the name of the latex output file for PDF builds
 # latex:
