@@ -3,7 +3,7 @@
 
 title: CDA Partner Guide OpenSearch
 copyright: "2024"  # Copyright year to be placed in the footer
-author: CEOS WGISS
+author: CEOS WGISS DAIG
 logo: logo.png
 
 # Force re-execution of notebooks on each build.
@@ -25,8 +25,8 @@ execute:
 
 # Information about where the book exists on the web
 repository:
-  url: https://github.com/eovoc/eo-books  # Online location of your book
-  path_to_book: docs  # Optional path to your book, relative to the repository root
+  url: https://github.com/ceos-org/wgiss-cda  # Online location of your book
+  path_to_book: book  # Optional path to your book, relative to the repository root
   branch: main  # Which branch of the repository should be used when creating links (optional)
 
 # Add GitHub buttons to your book
